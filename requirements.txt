@@ -32,7 +32,7 @@ promise==2.2.1
 py==1.8.0
 pycparser==2.19
 pydantic==0.32.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.2
 pytest==5.2.1
 pytest-env==0.6.2
